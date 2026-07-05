@@ -88,24 +88,12 @@
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/mibrahim-O2">
-    <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api?username=mibrahim-O2&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&hide=stars&include_all_commits=false&border_radius=15" />
+    <img height=180 align="center" src="./profile/stats.svg" />
   </a>
   <a href="https://github.com/mibrahim-O2">
-    <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=mibrahim-O2&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&border_radius=15" />
+    <img height=180 align="center" src="./profile/top-langs.svg" />
   </a>
 </div>
-
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none;" align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mibrahim-O2" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-![](https://i.imgur.com/waxVImv.png)
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
@@ -148,5 +136,15 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/mibrahim-O2/mibrahim-O2/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <p align="center">
+  <img align="center" height="270px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Code+with+Purpose.+Build+with+Faith.;Learning+Today.+Leading+Tomorrow.;Turning+Ideas+Into+Products.;AI+is+not+the+future.+AI+is+the+present." />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Faith%20in%20Allah%2C%20Leave%20the%20rest%20to%20Him"/>
+</p>
+
+ 
