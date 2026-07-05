@@ -13,15 +13,13 @@ jobs:
   build-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation(s)
+      - name: Generate snake animation (light + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: mibrahim-O2
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-ocean.svg?color_snake=#00F5FF&color_dots=#0e2a47,#154c8c,#1f6fd6,#3ba0ff,#7fd7ff
-            dist/github-snake.gif?color_snake=#FFD700&color_dots=#0e2a47,#154c8c,#1f6fd6,#3ba0ff,#7fd7ff
+            dist/github-snake.svg?color_snake=%23FFD700&color_dots=%23ebedf0,%23c6e48b,%2385c46b,%2344a340,%231e6823
+            dist/github-snake-dark.svg?color_snake=%2300F5FF&color_dots=%230e1117,%230e2a47,%23154c8c,%231f6fd6,%2300F5FF
 
       - name: Push snake output to output branch
         uses: crazy-max/ghaction-github-pages@v3
