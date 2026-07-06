@@ -71,7 +71,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h2 align="center">🛠️ Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏʲᴇᴄᴛs</h2>
+<h2 align="center"> Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏʲᴇᴄᴛs</h2>
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -95,7 +95,7 @@
   </a>
 </div>
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<h2 align="center"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 
 <p align="center">
   <a href="mailto:mibrahimkhalid306@gmail.com">
