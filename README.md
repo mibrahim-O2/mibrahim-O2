@@ -46,6 +46,7 @@
 
 ## **Academic Background**
 - **University of Sindh (IMCS), Jamshoro | BS Computer Science (2023 - 2027)**
+- **Google AI Professional Certificate | Coursera (In Progress)**
 
 ![](https://i.imgur.com/waxVImv.png)
 
