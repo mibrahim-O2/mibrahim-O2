@@ -187,17 +187,29 @@
 </table>
 
 ![](https://i.imgur.com/waxVImv.png)
-  
 
-<!-- GitHub Stats -->
 <div align="center">
-  <a href="https://github.com/mibrahim-O2">
-    <img height=180 align="center" src="./profile/stats.svg" />
-  </a>
-  <a href="https://github.com/mibrahim-O2">
-    <img height=180 align="center" src="./profile/top-langs.svg" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mibrahim-O2&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mibrahim-O2&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mibrahim-O2&layout=compact&theme=react&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mibrahim-O2&theme=react&hide_border=true" width="70%"/>
+</div>
+
+<br/>
+
+<br/>
+
+![](https://i.imgur.com/waxVImv.png)
 
 <h2 align="center"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h2>
 
@@ -208,9 +220,9 @@
   &nbsp;&nbsp;
 
   <a href="https://x.com/MIbraheem_02" target="_blank">
-    <img src="https://cdn.simpleicons.org/x" alt="X (Twitter)" height="50" />
-  </a>
-  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/x/ffffff" alt="X (Twitter)" height="50" style="background-color:#000000; border-radius:50%; padding:10px;" />
+</a>
+&nbsp;&nbsp;
 
   <a href="https://web.facebook.com/mibrahim.O2" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="50" />
