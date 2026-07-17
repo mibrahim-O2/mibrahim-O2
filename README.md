@@ -72,19 +72,122 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<h2 align="center"> Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏʲᴇᴄᴛs</h2>
+<h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏʲᴇᴄᴛs</h2>
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **VerdexAI** | AI-powered hiring platform | Next.js, Node.js, Express, MongoDB |
-| **AI Tutor - PLR System** | Personalized Learning Recommendation system for adaptive tutoring | Python, AI/ML |
-| **BIN-KHALID Dairy Farm** | Dairy farm management system built for own family business | Flask, SQLite |
-| **Restaurant Management System** | End-to-end restaurant operations management | Python, Flask, SQLite, Bootstrap |
-| **Event Management System** | Platform for organizing and managing events | Python, Flask, SQLite, Bootstrap |
-| **URL Shortener** | Lightweight link shortening service | Python, Flask, SQLite, Bootstrap |
-| **n8n Automations** | Multiple workflow automation projects | n8n |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=A+selection+of+projects+I've+built+and+shipped." alt="Typing SVG"/>
+</p>
+
+<br/>
+
+<table align="center" width="100%">
+
+<tr>
+<th align="left" width="30%">Project</th>
+<th align="left" width="45%">Description</th>
+<th align="center" width="25%">Tech Stack</th>
+</tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td width="30%"><b>VerdexAI</b></td>
+<td width="45%">AI-powered hiring platform</td>
+<td width="25%" align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb" height="28"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/verdexai-official"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>AI Tutor — PLR System</b></td>
+<td>Personalized Learning Recommendation system for adaptive tutoring</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="28"/>
+  <img src="https://img.shields.io/badge/AI%2FML-1a1a1a?style=flat-square&labelColor=1a1a1a&color=444"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/AI_Tutor_PLR_AbstractMinds"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>BIN-KHALID Dairy Farm</b></td>
+<td>Dairy farm management system built for own family business</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=flask,sqlite" height="28"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/bin-khalid-dairy-farm"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>Restaurant Management System</b></td>
+<td>End-to-end restaurant operations management</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,bootstrap" height="28"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/Restaurant-Management-System"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>Event Management System</b></td>
+<td>Platform for organizing and managing events</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,bootstrap" height="28"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/Event-Registration-System"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>URL Shortener</b></td>
+<td>Lightweight link shortening service</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,bootstrap" height="28"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/Url-Shortener"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+<tr><td colspan="3"><hr/></td></tr>
+
+<tr>
+<td><b>n8n Automations</b></td>
+<td>Multiple workflow automation projects — order processing, AI chatbot, data operations, newsletter generation, multi-agent assistant</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=n8n" height="28"/>
+  <img src="https://img.shields.io/badge/Gemini-1a1a1a?style=flat-square&logo=googlegemini&logoColor=8E75B2&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Airtable-1a1a1a?style=flat-square&logo=airtable&logoColor=18BFFF&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Sheets-1a1a1a?style=flat-square&logo=googlesheets&logoColor=34A853&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=1a1a1a"/>
+</td>
+</tr>
+<tr><td colspan="3" align="right">
+  <a href="https://github.com/mibrahim-O2/n8n-workflows"><img src="https://img.shields.io/badge/Repository-→-2ea44f?style=flat-square&labelColor=1a1a1a"/></a>
+</td></tr>
+
+</table>
 
 ![](https://i.imgur.com/waxVImv.png)
+  
 
 <!-- GitHub Stats -->
 <div align="center">
