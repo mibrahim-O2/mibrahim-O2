@@ -1,0 +1,61 @@
+<svg viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00A676"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#00A676"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#12120f"/>
+      <stop offset="100%" stop-color="#0a0a08"/>
+    </linearGradient>
+    <filter id="nameGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="1.5;4;1.5" dur="3s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="176" rx="14" fill="url(#bgGrad)"
+        stroke="url(#borderGlow)" stroke-width="2"/>
+
+  <circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="56" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="78" cy="34" r="6" fill="#27c93f"/>
+  <text x="450" y="39" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6b7280">muhammad@dev — zsh</text>
+
+  <line x1="24" y1="52" x2="876" y2="52" stroke="#242420" stroke-width="1"/>
+
+  <!-- Small "who i am" label, left aligned -->
+  <text x="40" y="80" font-family="'JetBrains Mono', monospace" font-size="15" fill="#6b7280" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    <tspan fill="#00A676">$ </tspan>who i am
+  </text>
+
+  <!-- Big centered name -->
+  <text x="450" y="130" text-anchor="middle" font-family="Sora, sans-serif" font-weight="800"
+        font-size="46" fill="#00A676" filter="url(#nameGlow)" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="scale" additive="sum"
+      values="0.9;1;1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    <animate attributeName="fill" values="#00A676;#D4AF37;#00A676" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    MUHAMMAD IBRAHIM
+  </text>
+
+  <!-- Role, centered below -->
+  <text x="450" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="15" fill="#9CA3AF" opacity="0">
+    <animate attributeName="opacity" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>
+    Full-Stack &amp; AI Developer
+  </text>
+
+  <!-- Blinking cursor after role -->
+  <rect x="645" y="147" width="9" height="16" fill="#D4AF37" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" dur="0.9s" repeatCount="indefinite" begin="2.1s"/>
+  </rect>
+</svg>
