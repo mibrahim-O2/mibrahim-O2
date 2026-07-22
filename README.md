@@ -1,4 +1,8 @@
 <p align="center">
+     <img src="https://github.com/mibrahim-O2/mibrahim-O2/blob/main/banner-terminal-v3.svg" />
+   </p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=1&pause=100000&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=MUHAMMAD+IBRAHIM" />
 </p>
 
