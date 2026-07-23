@@ -88,6 +88,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=A+selection+of+projects+I've+built+and+shipped." alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="70%"/>
+</p>
+
 <br/>
 
 <table align="center" width="100%">
