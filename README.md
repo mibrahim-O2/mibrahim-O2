@@ -241,7 +241,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Faith%20in%20Allah%2C%20Leave%20the%20rest%20to%20Him"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,25:2ea44f,50:D4AF37,75:2ea44f,100:0d1117&section=footer&textBg=false&fontAlign=50&fontColor=ffffff&fontSize=18&animation=fadeIn&reversal=true&desc=Faith%20in%20Allah%2C%20Leave%20the%20rest%20to%20Him"/>
 </p>
-
  
