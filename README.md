@@ -46,7 +46,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white)
 
-## **Academic Background**
+<h2 align="center">Academic Background</h2>
+
 - **University of Sindh (IMCS), Jamshoro | BS Computer Science (2023 - Present)**
 - **Google AI Professional Certificate | Coursera**
 
