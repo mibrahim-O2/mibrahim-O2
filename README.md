@@ -3,10 +3,6 @@
    </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=1&pause=100000&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=MUHAMMAD+IBRAHIM" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+%26+AI+Developer;Building+VerdexAI+-+AI+Hiring+Platform;Next.js+%7C+Node.js+%7C+Python+%7C+AI%2FML;Automating+Workflows+with+n8n;Driven+by+Faith%2C+Purpose+%26+Code" />
 </p>
 
