@@ -88,7 +88,7 @@
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=2ea44f&center=true&vCenter=true&width=550&lines=A+selection+of+projects+I've+built+and+shipped." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=A+selection+of+projects+I've+built+and+shipped." alt="Typing SVG"/>
 </p>
 
 <br/>
