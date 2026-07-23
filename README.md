@@ -53,9 +53,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
 </p>
  
-
- 
-
 <h2 align="center">Academic Background</h2>
 
 - **University of Sindh (IMCS), Jamshoro | BS Computer Science (2023 - Present)**
@@ -183,6 +180,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mibrahim-O2&bg_color=0d1117&color=2ea44f&line=2ea44f&point=D4AF37&area=true&area_color=2ea44f&hide_border=true" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
+</p>
 
 <br/>
 
