@@ -1,50 +1,60 @@
 <p align="center">
      <img src="https://github.com/mibrahim-O2/mibrahim-O2/blob/main/banner-terminal-v3.svg" />
    </p>
-   
-![](https://i.imgur.com/waxVImv.png)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Full-Stack+%26+AI+Developer;Building+VerdexAI+-+AI+Hiring+Platform;Next.js+%7C+Node.js+%7C+Python+%7C+AI%2FML;Automating+Workflows+with+n8n;Driven+by+Faith%2C+Purpose+%26+Code" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,50:eab308,100:0d9488&height=3" width="85%"/>
+</p>
 
-<hr>
 
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-065535?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00B7EB?style=for-the-badge&logo=tensorflow&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0d9488?style=flat-square&logo=openai&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Python-eab308?style=flat-square&logo=python&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/JavaScript-0d9488?style=flat-square&logo=javascript&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/C%2B%2B-eab308?style=flat-square&logo=c%2B%2B&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Java-0d9488?style=flat-square&logo=java&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/C%23-eab308?style=flat-square&logo=c-sharp&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/HTML5-0d9488?style=flat-square&logo=html5&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/CSS3-eab308?style=flat-square&logo=css3&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Bootstrap-0d9488?style=flat-square&logo=bootstrap&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/React-eab308?style=flat-square&logo=react&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Next.js-0d9488?style=flat-square&logo=next.js&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Node.js-eab308?style=flat-square&logo=node.js&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Express-0d9488?style=flat-square&logo=express&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/FastAPI-eab308?style=flat-square&logo=fastapi&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Flask-0d9488?style=flat-square&logo=flask&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Spring_Boot-eab308?style=flat-square&logo=spring-boot&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/MongoDB-0d9488?style=flat-square&logo=mongodb&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/PostgreSQL-eab308?style=flat-square&logo=postgresql&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/SQLite-0d9488?style=flat-square&logo=sqlite&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Firebase-eab308?style=flat-square&logo=firebase&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Oracle-0d9488?style=flat-square&logo=oracle&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/SQLAlchemy-eab308?style=flat-square&logo=python&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Machine_Learning-0d9488?style=flat-square&logo=tensorflow&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/n8n-eab308?style=flat-square&logo=n8n&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Git-0d9488?style=flat-square&logo=git&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/GitHub-eab308?style=flat-square&logo=github&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Railway-0d9488?style=flat-square&logo=railway&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Vercel-eab308?style=flat-square&logo=vercel&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/AWS-0d9488?style=flat-square&logo=amazon-aws&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Linux-eab308?style=flat-square&logo=linux&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Postman-0d9488?style=flat-square&logo=postman&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/VS_Code-eab308?style=flat-square&logo=visual-studio-code&logoColor=0d9488&labelColor=000000">
+<img src="https://img.shields.io/badge/Figma-0d9488?style=flat-square&logo=figma&logoColor=eab308&labelColor=000000">
+<img src="https://img.shields.io/badge/Canva-eab308?style=flat-square&logo=canva&logoColor=0d9488&labelColor=000000">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
+</p>
+ 
+
+ 
 
 <h2 align="center">Academic Background</h2>
 
