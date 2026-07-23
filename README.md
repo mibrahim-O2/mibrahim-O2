@@ -171,24 +171,23 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mibrahim-O2&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mibrahim-O2&bg_color=0d1117&color=2ea44f&line=2ea44f&point=D4AF37&area=true&area_color=2ea44f&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mibrahim-O2&show_icons=true&theme=react&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mibrahim-O2&layout=compact&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mibrahim-O2&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=D4AF37&icon_color=2ea44f&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mibrahim-O2&layout=compact&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mibrahim-O2&theme=react&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mibrahim-O2&hide_border=true&background=0d1117&border=2ea44f&ring=2ea44f&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="70%"/>
 </div>
 
 <br/>
-
 <br/>
 
 ![](https://i.imgur.com/waxVImv.png)
