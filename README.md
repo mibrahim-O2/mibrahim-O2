@@ -237,10 +237,19 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
+</p>
+
 <br clear="both">
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/mibrahim-O2/mibrahim-O2/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/mibrahim-O2/mibrahim-O2/output/github-snake-dark.svg#gh-dark-mode-only)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d9488,50:eab308,100:0d9488&height=3" width="85%"/>
+</p>
+
 
 <p align="center">
   <img align="center" height="270px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
@@ -248,6 +257,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Code+with+Purpose.+Build+with+Faith.;Learning+Today.+Leading+Tomorrow.;Turning+Ideas+Into+Products.;AI+is+not+the+future.+AI+is+the+present." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
 </p>
 
 <p align="center">
