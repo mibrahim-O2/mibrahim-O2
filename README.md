@@ -58,30 +58,6 @@
 - **University of Sindh (IMCS), Jamshoro | BS Computer Science (2023 - Present)**
 - **Google AI Professional Certificate | Coursera**
 
-![](https://i.imgur.com/waxVImv.png)
-
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Expanding full-stack skills with Next.js, Node.js and Express.</li>
-  <li>Building and integrating AI/ML features into real products.</li>
-  <li>Automating workflows and backend logic using n8n.</li>
-  <li>Working with Firebase, MongoDB and PostgreSQL for data handling.</li>
-  <li>Understanding cloud deployment via Railway and Vercel.</li>
-  <li>Sharpening problem-solving with Data Structures and Algorithms.</li>
-</ul>
-
-<br />
-
-![](https://i.imgur.com/waxVImv.png)
-
 
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
@@ -176,6 +152,33 @@ Order processing, AI chatbot, data ops, newsletter generation, multi-agent assis
 ![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 </details>
+
+
+![](https://i.imgur.com/waxVImv.png)
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Expanding full-stack skills with Next.js, Node.js and Express.</li>
+  <li>Building and integrating AI/ML features into real products.</li>
+  <li>Automating workflows and backend logic using n8n.</li>
+  <li>Working with Firebase, MongoDB and PostgreSQL for data handling.</li>
+  <li>Understanding cloud deployment via Railway and Vercel.</li>
+  <li>Sharpening problem-solving with Data Structures and Algorithms.</li>
+</ul>
+
+<br />
+
+![](https://i.imgur.com/waxVImv.png)
+
+
 
 
 
