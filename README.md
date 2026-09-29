@@ -50,6 +50,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+</p>
+<br><br>
  
 <h2 align="center">Academic Background</h2>
 
@@ -252,8 +257,9 @@ Order processing, AI chatbot, data ops, newsletter generation, multi-agent assis
 
 
 <p align="center">
-  <img align="center" height="270px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 </p>
+<br><br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Code+with+Purpose.+Build+with+Faith.;Learning+Today.+Leading+Tomorrow.;Turning+Ideas+Into+Products.;AI+is+not+the+future.+AI+is+the+present." />
