@@ -262,9 +262,6 @@ Order processing, AI chatbot, data ops, newsletter generation, multi-agent assis
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Code+with+Purpose.+Build+with+Faith.;Learning+Today.+Leading+Tomorrow.;Turning+Ideas+Into+Products.;AI+is+not+the+future.+AI+is+the+present." />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,25:2ea44f,50:D4AF37,75:2ea44f,100:0d1117&section=footer&textBg=false&fontAlign=50&fontColor=ffffff&fontSize=18&animation=fadeIn&reversal=true&desc=Faith%20in%20Allah%2C%20Leave%20the%20rest%20to%20Him"/>
