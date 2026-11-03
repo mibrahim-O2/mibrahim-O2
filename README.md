@@ -51,10 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:0d9488,50:eab308,75:0d9488,100:0d1117&height=3" width="60%"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-</p>
-<br><br>
+ 
  
 <h2 align="center">Academic Background</h2>
 
