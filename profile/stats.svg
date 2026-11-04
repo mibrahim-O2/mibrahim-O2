@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Muhammad Ibrahim&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Commits  (last year) : 1792, Total PRs: 5, Total Issues: 0, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Commits  (last year) : 1862, Total PRs: 7, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 175.47310891896694;
+        stroke-dashoffset: 173.81864350116211;
       }
     }
   
@@ -176,7 +176,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1.8k</text>
+      >1.9k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -191,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >5</text>
+      >7</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
